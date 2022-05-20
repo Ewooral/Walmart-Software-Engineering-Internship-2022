@@ -1,6 +1,5 @@
 # Binary Heap by Elijah Owusu Boahen
 # 13th April, 2022
-
 # O(1) T, O(N) S
 class BH:
     def __init__(self, size) -> None:
@@ -41,6 +40,7 @@ def heapifyInsert(rootNode, index, heapType):
 
 
 # O(log N)T, S
+
 def insert(rootNode, nodeValue, heapType):
     if rootNode.heapSize + 1 == rootNode.maxSize:
         return "Binary Heap is full"

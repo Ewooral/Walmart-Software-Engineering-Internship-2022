@@ -20,3 +20,18 @@ used to manage data in a relational database management system
 - its declarative
 - can be procedural too(PL/SQl)
 - inspired by Codd's relational Model
+
+### SQL language elements
+- Select clause E.g. SELECT * FROM  Employee
+- Where clause WHERE id = 123 AND is_admin = "true"
+  ("true" is an expression) 
+- Predicate is an expression evaluated to either true or false or undefined
+- An Expression is something that produces tables or scaler values
+
+### SELECT * FROM Employee
+    SELECT
+- returns a result set
+- let assume results are rows
+ 
+    FROM 
+- allows one or more elements to be returned from a relation

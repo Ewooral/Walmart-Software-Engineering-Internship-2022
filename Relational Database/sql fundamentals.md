@@ -9,3 +9,14 @@
 
 * these are the Tables, column names, types and constraints
 * Strongly connected to your data domain
+
+### Relational Algebra
+Involves no variables and is a procedural way of thinking
+### Relational Calculus
+Is a declarative way of thinking and stating what need to be done
+
+### Structured Query Language
+used to manage data in a relational database management system
+- its declarative
+- can be procedural too(PL/SQl)
+- inspired by Codd's relational Model

@@ -33,5 +33,5 @@ used to manage data in a relational database management system
 - returns a result set
 - let assume results are rows
  
-    FROM 
+      FROM 
 - allows one or more elements to be returned from a relation

@@ -1,4 +1,4 @@
-### A relation(table)
+ ### A relation(table)
     is a set of Tuples(rows)
 
 * Each element in a tuple(cell value) is a member of a data domain(set of allowed values)
